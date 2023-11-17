@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38d71b27.css",
+    "main.js": "/static/js/main.73ffc5fc.js",
+    "static/js/787.1d40e240.chunk.js": "/static/js/787.1d40e240.chunk.js",
+    "static/media/Showcase.png": "/static/media/Showcase.404c40050888d519ec58.png",
+    "static/media/Showcase-mobile.png": "/static/media/Showcase-mobile.0f220737196640988e9c.png",
+    "static/media/Logo.svg": "/static/media/Logo.5bbdd866b419aceb1abd900f06f95510.svg",
+    "static/media/view-into.svg": "/static/media/view-into.9c59a62aa2495fe16cec761963ec91a4.svg",
+    "static/media/Instagram.svg": "/static/media/Instagram.c3104c54652d9a14d427dbd4a520571f.svg",
+    "static/media/Twitter.svg": "/static/media/Twitter.b99d7b9fca00a827595ec27bc90ff80f.svg",
+    "static/media/YouTube.svg": "/static/media/YouTube.4247aaea7de7be7a122212f5d915099d.svg",
+    "index.html": "/index.html",
+    "static/media/Facebook.svg": "/static/media/Facebook.b58741192714b4eaa18a54e647e03e8c.svg",
+    "static/media/Hamburger Menu.svg": "/static/media/Hamburger Menu.a7e0dca3c6a5d676887f821dc1f17131.svg",
+    "main.38d71b27.css.map": "/static/css/main.38d71b27.css.map",
+    "main.73ffc5fc.js.map": "/static/js/main.73ffc5fc.js.map",
+    "787.1d40e240.chunk.js.map": "/static/js/787.1d40e240.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d71b27.css",
+    "static/js/main.73ffc5fc.js"
+  ]
+}
